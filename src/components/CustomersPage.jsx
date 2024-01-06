@@ -58,7 +58,7 @@ export default function CustomersPage() {
                         <thead>
                             <tr>
                                 <th>ID</th>
-                                <th>Fullname</th>
+                                <th>Fullnamem</th>
                                 <th>Gender</th>
                                 <th>Address</th>
                                 <th>Age</th>
